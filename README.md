@@ -2,11 +2,8 @@
 
 A free-data, cloud-native pipeline for estimating above-ground carbon (AGC) stock in the Abuja Municipal Area Council (AMAC), Federal Capital Territory, Nigeria, using Google Earth Engine (Sentinel-1, Sentinel-2, GEDI L4A) and a Random Forest baseline model. This repository accompanies the manuscript *"A Preliminary Random Forest Baseline for Above-Ground Carbon Stock Estimation in Abuja Municipal Area Council Using Free Multi-Sensor Satellite Data: A GeoAI Approach"*, submitted to the International Journal of Research and Innovation in Applied Science (IJRIAS).
 
-[![DOI](https://zenodo.org/badge/DOI/INSERT_YOUR_DOI_HERE.svg)](https://doi.org/INSERT_YOUR_DOI_HERE)
+[Idris Ibrahim. (2026). Abdallah2014/amac-carbon-geoai-baseline: v1.0.0 — Preliminary RF baseline for AMAC AGC estimation (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21540397)
 
-> **Before publishing this repo:** replace the Zenodo badge above once archived (see [Archiving with Zenodo](#archiving-with-zenodo)), and fill in the author/citation details at the bottom of this file.
-
----
 
 ## Overview
 
