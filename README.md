@@ -36,8 +36,6 @@ This project builds a classical machine-learning baseline for above-ground carbo
 └── LICENSE
 ```
 
-*(Adjust this tree to match what you actually upload — see [What to Upload](#what-to-upload) below.)*
-
 ## Data Sources (all free)
 
 | Source | Product | Access |
@@ -113,7 +111,7 @@ If you use this code or data, please cite:
 
 > [Ibrahim et al.] ([2026]). *A Preliminary Random Forest Baseline for Above-Ground Carbon Stock Estimation in Abuja Municipal Area Council Using Free Multi-Sensor Satellite Data: A GeoAI Approach.* International Journal of Research and Innovation in Applied Science (IJRIAS). [DOI/URL once published]
 
-Repository DOI: [INSERT ZENODO DOI]
+Repository DOI: [Idris Ibrahim. (2026). Abdallah2014/amac-carbon-geoai-baseline: v1.0.0 — Preliminary RF baseline for AMAC AGC estimation (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21540397]
 
 ## Contact
 
